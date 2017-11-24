@@ -13,8 +13,8 @@
     </head>
     <body>
     	<div id="container">
-			<?php include('./includes/login_form.php');?>
-	        <?php include('./includes/footer.php');?>
+			<?php include('includes/login_form.php');?>
+	        <?php include('includes/footer.php');?>
     	</div>
     </body>
 </html>
