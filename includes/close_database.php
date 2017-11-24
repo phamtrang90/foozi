@@ -1,4 +1,4 @@
 <?php
-include($_SERVER['DOCUMENT_ROOT'] . '/foozi/variables/variables.php');
+include($_SERVER['HTTP_HOST'] . '/variables/variables.php');
 $connect->close();
 ?>
