@@ -1,4 +1,4 @@
 <?php
-include('variables/variables.php');
-$connect->close();
+	include($_SERVER['DOCUMENT_ROOT'].'/app/variables/variables.php');
+	$connect->close();
 ?>
