@@ -2,57 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d3a82da-4303-4655-ae9e-86106103687f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/foozi.iml" afterPath="$PROJECT_DIR$/.idea/foozi.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/add-category.php" afterPath="$PROJECT_DIR$/add-category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/add-menu.php" afterPath="$PROJECT_DIR$/add-menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin.php" afterPath="$PROJECT_DIR$/admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/add-reservation.php" afterPath="$PROJECT_DIR$/api/add-reservation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/get-all-category-data.php" afterPath="$PROJECT_DIR$/api/get-all-category-data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/get-menu-data-by-category-id.php" afterPath="$PROJECT_DIR$/api/get-menu-data-by-category-id.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/get-menu-detail.php" afterPath="$PROJECT_DIR$/api/get-menu-detail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/get-tax-and-currency.php" afterPath="$PROJECT_DIR$/api/get-tax-and-currency.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/category.php" afterPath="$PROJECT_DIR$/category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/reset.css" afterPath="$PROJECT_DIR$/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db_restaurant.sql" afterPath="$PROJECT_DIR$/db_restaurant.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/delete-category.php" afterPath="$PROJECT_DIR$/delete-category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/delete-menu.php" afterPath="$PROJECT_DIR$/delete-menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/delete-reservation.php" afterPath="$PROJECT_DIR$/delete-reservation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit-category.php" afterPath="$PROJECT_DIR$/edit-category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit-menu.php" afterPath="$PROJECT_DIR$/edit-menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forget-password.php" afterPath="$PROJECT_DIR$/forget-password.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/add-category-form.php" afterPath="$PROJECT_DIR$/includes/add-category-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/add-menu-form.php" afterPath="$PROJECT_DIR$/includes/add-menu-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/admin-form.php" afterPath="$PROJECT_DIR$/includes/admin-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/category_table.php" afterPath="$PROJECT_DIR$/includes/category_table.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/close_database.php" afterPath="$PROJECT_DIR$/includes/close_database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/confirm-delete-category.php" afterPath="$PROJECT_DIR$/includes/confirm-delete-category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/confirm-delete-menu.php" afterPath="$PROJECT_DIR$/includes/confirm-delete-menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/confirm-delete-reservation.php" afterPath="$PROJECT_DIR$/includes/confirm-delete-reservation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/connect_database.php" afterPath="$PROJECT_DIR$/includes/connect_database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/edit-category-form.php" afterPath="$PROJECT_DIR$/includes/edit-category-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/edit-menu-form.php" afterPath="$PROJECT_DIR$/includes/edit-menu-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/footer.php" afterPath="$PROJECT_DIR$/includes/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/forget-password-form.php" afterPath="$PROJECT_DIR$/includes/forget-password-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/functions.php" afterPath="$PROJECT_DIR$/includes/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/login_form.php" afterPath="$PROJECT_DIR$/includes/login_form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/menu_data.php" afterPath="$PROJECT_DIR$/includes/menu_data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/menu_sharing_data.php" afterPath="$PROJECT_DIR$/includes/menu_sharing_data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/menu_table.php" afterPath="$PROJECT_DIR$/includes/menu_table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/menubar.php" afterPath="$PROJECT_DIR$/includes/menubar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/reservation_data.php" afterPath="$PROJECT_DIR$/includes/reservation_data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/reservation_table.php" afterPath="$PROJECT_DIR$/includes/reservation_table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/setting-form.php" afterPath="$PROJECT_DIR$/includes/setting-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logout.php" afterPath="$PROJECT_DIR$/logout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu-detail.php" afterPath="$PROJECT_DIR$/menu-detail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu-sharing.php" afterPath="$PROJECT_DIR$/menu-sharing.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu.php" afterPath="$PROJECT_DIR$/menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reservation-detail.php" afterPath="$PROJECT_DIR$/reservation-detail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reservation.php" afterPath="$PROJECT_DIR$/reservation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setting.php" afterPath="$PROJECT_DIR$/setting.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/variables/variables.php" afterPath="$PROJECT_DIR$/variables/variables.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,11 +17,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="variables.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="variables.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/variables/variables.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="442">
+              <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="close_database.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/includes/close_database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connect_database.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/connect_database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="43" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -81,6 +52,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>session_start();</find>
+      <find>lude($_SERVER['DOCUMENT_ROOT'].</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -101,6 +73,8 @@
         <option value="$PROJECT_DIR$/includes/forget-password-form.php" />
         <option value="$PROJECT_DIR$/includes/admin-form.php" />
         <option value="$PROJECT_DIR$/variables/variables.php" />
+        <option value="$PROJECT_DIR$/includes/connect_database.php" />
+        <option value="$PROJECT_DIR$/includes/close_database.php" />
       </list>
     </option>
   </component>
@@ -141,6 +115,11 @@
               <item name="foozi" type="b2602c69:ProjectViewProjectNode" />
               <item name="foozi" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="foozi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="foozi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -180,7 +159,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1023000" />
+    <option name="totallyTimeSpent" value="1478000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -193,8 +172,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25869894" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25869894" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -202,7 +182,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32676518" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34318554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34318554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -432,14 +412,6 @@
             <marker date="1482674420685" expanded="true" signature="2749:2814" ph="UPDATE tbl_u... " />
             <marker date="1482674420685" expanded="true" signature="3589:3634" ph="SELECT Email... tbl_user" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/close_database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -676,18 +648,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/connect_database.php">
+    <entry file="file://$PROJECT_DIR$/variables/variables.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        <state relative-caret-position="442">
+          <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/variables/variables.php">
+    <entry file="file://$PROJECT_DIR$/includes/connect_database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="17">
+          <caret line="1" column="43" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/close_database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
           <folding />
         </state>
       </provider>
